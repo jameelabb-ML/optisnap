@@ -1,4 +1,4 @@
-# SafeCompress
+# OptiSnap
 
 > Private, offline-ready image compression — entirely in your browser.
 
